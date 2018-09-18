@@ -10,6 +10,11 @@
       line-height: 1.5em;
   }
   
+  body{
+    max-width: 100%;
+      overflow-x: hidden;
+  }
+  
   .middle{
       display: flex;
       flex-direction: row;

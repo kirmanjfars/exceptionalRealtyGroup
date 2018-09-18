@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+body{
+  max-width: 100%;
+    overflow-x: hidden;
+}
+
 
 p{
     font-size: 1em;
